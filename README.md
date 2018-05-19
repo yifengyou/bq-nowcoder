@@ -8,7 +8,7 @@
       不管黑猫白猫，
 
 牛客网官方网址：<https://www.nowcoder.com/>
-
+GitBook地址：<https://yifengyou.gitbooks.io/bq-nowcoder/content/>
 ![1526692268022.png](image/1526692268022.png)
 
 ![1526692228549.png](image/1526692228549.png)
